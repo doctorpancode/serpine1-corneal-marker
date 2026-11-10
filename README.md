@@ -33,7 +33,7 @@ different kinds of evidence and that a virtual knockout answers only the second.
 | D7 | NNLS deconvolution, scTenifoldKnk (494-gene network) | `code/D7/` |
 | D8 | 947-gene network, transcriptome-wide scan, third knockout, epithelial selectivity | `code/D8/` |
 | D9 | human inflammation cohort, centrality stripping, regularised KO, multi-KO, real CellChat | `code/D9/` |
-| figures | Fig 1–7, Fig S1–S9, Tables 1–3 | `code/figures/` |
+| figures | Fig 1–7, Fig S1–S10, Tables 1–3 | `code/figures/` |
 | manuscript | revision statistics, docx builder | `code/manuscript/` |
 
 Run order and the object each script consumes are documented in `docs/ANALYSIS_ORDER.md`.
@@ -100,18 +100,22 @@ cd serpine1-corneal-marker
 
 # 1. rebuild every manuscript figure from the shipped result tables
 cd code/figures
-for f in fig1.py fig2.py fig3.py fig4.py fig5.py fig6.py fig7.py; do python $f; done
+for f in fig1.py fig2.py fig3.py fig4.py fig5.py fig6.py fig7.py \
+         s1.py s2.py s3.py s4.py s5.py s6.py s7.py s8.py s9.py s10.py; do python $f; done
 
 # 2. re-derive the revision statistics quoted in Table 1, S1, S2
 cd ../manuscript && python rev12_analysis.py
 
-# 3. rebuild the manuscript docx (needs the template docx, see script header)
-python build_draft12.py
+# 3. rebuild the resampling distributions (Figure S5) — needs the WT network object
+#    Rscript ../D9/06_rank_stability_null.R
+
+# 4. rebuild the manuscript docx (needs the template docx, see script header)
+python build_draft13.py
 ```
 
 Figure scripts read result tables through `figstyle.py`, which resolves paths relative to the
 repository root (override with `VKO_BASE`) and writes into `figures_out/` (override with `VKO_OUT`).
-All eight figure scripts were smoke-tested inside this tree.
+All sixteen figure scripts were smoke-tested inside this tree.
 
 ---
 
@@ -120,8 +124,10 @@ All eight figure scripts were smoke-tested inside this tree.
 The virtual-knockout section reports an effect-size ranking, not a causal test. The paper says so
 explicitly, and the code reflects that limit:
 
-- no resampling distribution over network reconstructions (≥20 rebuilds) and no degree-preserving
-  permutation null were run, so the residual rank of TMSB4X is a point estimate;
+- rank stability is quantified by resampling (script `code/D9/06_rank_stability_null.R`: 20 network
+  reconstructions plus 20 degree-preserving permutations), but both layers stay inside the same
+  linearised knockout engine — the permutation fixes the degree sequence and the rebuild fixes the
+  engine, so neither tests the linearisation itself;
 - combination knockouts are additive **by construction** (`stopifnot` on the algorithm identity), so
   `D9_multiko_summary.tsv` validates the implementation, not synergy;
 - `mean|Δ|` is not additive across knockouts (`TMSB4X` 0.271213 → `+P4HB` 0.262472, i.e. it falls),

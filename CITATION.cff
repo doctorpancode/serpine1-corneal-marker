@@ -10,7 +10,7 @@ authors:
     given-names: "Zhongcen"
     affiliation: "Department of Ophthalmology"
     orcid: ""
-version: "1.0.3"
+version: "1.0.5"
 date-released: "2026-11-11"
 license: MIT
 repository-code: "https://github.com/doctorpancode/serpine1-corneal-marker"

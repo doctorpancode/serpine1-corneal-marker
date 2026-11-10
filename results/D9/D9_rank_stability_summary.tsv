@@ -1,0 +1,12 @@
+ko_gene	n_rep	rank_raw_med	rank_raw_min	rank_raw_max	rank_resid_med	rank_resid_min	rank_resid_max	n_top1_resid	n_top10_resid	n_bottom_third
+Tmsb4x	20	1	1	2	1	1	1	20	20	0
+Prdx2	20	46	44	53	25	20	32	0	0	0
+Capg	20	89	73	112	35	30	47	0	0	0
+Vdac1	20	184.5	155	249	81	67	112	0	0	0
+P4hb	20	134	122	146	99	71	525	0	0	0
+Xiap	20	772.5	700	876	208.5	156	337	0	0	0
+S100a13	20	284.5	249	307	620	163	760	0	0	9
+Sod1	20	493	429	593	639	464	712	0	0	11
+Serpine1	20	663.5	597	709	662.5	223	777	0	0	13
+Vim	20	416.5	346	463	778	454	878	0	0	18
+Gja1	20	127	108	151	797	124	897	0	0	14
