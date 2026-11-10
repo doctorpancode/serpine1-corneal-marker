@@ -3,7 +3,7 @@
   "upload_type": "software",
   "access_right": "open",
   "license": "cc-by-4.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "language": "eng",
   "creators": [
     {
@@ -30,24 +30,24 @@
       "scheme": "url"
     },
     {
-      "identifier": "GSE275678",
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE275678",
       "relation": "references",
-      "scheme": "gse"
+      "scheme": "url"
     },
     {
-      "identifier": "GSE241715",
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE241715",
       "relation": "references",
-      "scheme": "gse"
+      "scheme": "url"
     },
     {
-      "identifier": "GSE58291",
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE58291",
       "relation": "references",
-      "scheme": "gse"
+      "scheme": "url"
     },
     {
-      "identifier": "GSE294213",
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE294213",
       "relation": "references",
-      "scheme": "gse"
+      "scheme": "url"
     }
   ]
 }
