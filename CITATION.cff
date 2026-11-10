@@ -10,7 +10,7 @@ authors:
     given-names: "Zhongcen"
     affiliation: "Department of Ophthalmology"
     orcid: ""
-version: "1.0.1"
+version: "1.0.2"
 date-released: "2026-11-11"
 license: MIT
 repository-code: "https://github.com/doctorpancode/virtual-gene-knockout-corneal-serpine1"
