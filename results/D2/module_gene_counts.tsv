@@ -1,0 +1,7 @@
+module_full	n_genes	kME_abs_mean	r_stemness	r_lesion
+MEturquoise	442	0.6159	0.8838	-0.2275
+MEblue	195	0.5428	-0.5292	0.5449
+MEred	127	0.1755	0.4547	-0.8507
+MEgreen	486	0.364	-0.4449	0.7884
+MEbrown	98	0.2518	0.3981	-0.5637
+MEyellow	65	0.4263	-0.2057	-0.607

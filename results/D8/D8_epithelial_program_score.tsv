@@ -1,0 +1,6 @@
+target	n_epi_tested	n_epi_sig	mean_Z_epi	median_p_epi	n_epi_up	n_epi_down	top_epi_hits
+Tmsb4x	18	0	1.81127538196127	0.0167596774919899	0	0	Krt5,Krt12,Perp,Aqp5,Gsta4
+P4hb	18	0	1.72759468352417	0.0421187556340644	0	0	Krt5,Perp,Krt12,Calml3,Gsta4
+S100a13	18	0	1.58292029398742	0.0739745037573861	0	0	Krt5,Perp,Krt12,Calml3,Upk3bl
+Serpine1	18	0	1.49627651901496	0.0750666661383358	0	0	Krt5,Perp,Krt14,Calml3,Upk3bl
+Vim	18	0	1.49271632579767	0.077001626140444	0	0	Krt5,Perp,Calml3,Krt14,Upk3bl

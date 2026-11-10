@@ -1,0 +1,6 @@
+target	n_sig_total	n_sig_nontarget	top5_nontarget	n_up	n_down	outdegree	indegree
+Serpine1	1	0	Krt5,Perp,S100a11,Anxa2,S100a14	0	0	729	737
+Tmsb4x	1	0	Krt5,S100a11,Krt12,Lypd2,Perp	0	0	833	841
+P4hb	1	0	Krt5,Perp,Krt12,Lypd2,Calml3	0	0	804	811
+S100a13	1	0	Krt5,Perp,Krt12,Lypd2,Calml3	0	0	782	791
+Vim	1	0	Krt5,Perp,S100a11,Anxa2,Krt6a	0	0	793	804

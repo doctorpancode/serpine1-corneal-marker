@@ -1,0 +1,6 @@
+metric	value
+same_sign_strong_epi	0.444444444444444
+n_strong_epi	18
+spearman_all_947	0.268223733360605
+spearman_epi18	0.568627450980392
+pearson_epi18	0.668545945376779

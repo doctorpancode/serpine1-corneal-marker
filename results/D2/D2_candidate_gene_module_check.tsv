@@ -1,0 +1,4 @@
+module	gene	kME_Stemness	module_full	r_StemnessScore	r_Lesion_binary
+turquoise	LOX	0.5381	MEturquoise	0.8838	-0.2275
+turquoise	SERPINE1	0.9488	MEturquoise	0.8838	-0.2275
+turquoise	THBS1	0.599	MEturquoise	0.8838	-0.2275

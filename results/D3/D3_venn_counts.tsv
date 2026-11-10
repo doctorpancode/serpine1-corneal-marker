@@ -1,0 +1,9 @@
+region	n_genes
+A	1175
+B	486
+C	498
+A&B	486
+A&C	266
+B&C	194
+A&B&C	194
+A|B|C	1407

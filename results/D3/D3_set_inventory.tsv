@@ -1,0 +1,141 @@
+theme	set_name	n_genes	n_after_theme
+A	Corneal Neovascularization/CTD Gene-Disease Associations	2	
+A	DISEASES2025:Corneal neovascularization	312	
+A	DisGeNET:Corneal Neovascularization	104	
+A	HPO:corneal neovascularization	1	
+A	HPO:neovascularization of peripheral and posterior retina	1	
+A	Neovascularization, Pathologic/CTD Gene-Disease Associations	955	
+B	Neovascularization, Pathologic/CTD Gene-Disease Associations	955	486
+C	Corneal Diseases/CTD Gene-Disease Associations	16	498
+C	Corneal Neovascularization/CTD Gene-Disease Associations	2	498
+C	Corneal Opacity/CTD Gene-Disease Associations	3	498
+C	Corneal Ulcer/CTD Gene-Disease Associations	2	498
+C	DISEASES2025:Autosomal dominant keratitis	25	498
+C	DISEASES2025:Autosomal dominant keratitis-ichthyosis-deafness syndrome	5	498
+C	DISEASES2025:Brittle cornea syndrome 1	27	498
+C	DISEASES2025:Brittle cornea syndrome 2	4	498
+C	DISEASES2025:Central corneal ulcer	3	498
+C	DISEASES2025:Cornea cancer	15	498
+C	DISEASES2025:Corneal abscess	12	498
+C	DISEASES2025:Corneal degeneration	172	498
+C	DISEASES2025:Corneal deposit	48	498
+C	DISEASES2025:Corneal disease	1618	498
+C	DISEASES2025:Corneal edema	271	498
+C	DISEASES2025:Corneal intraepithelial neoplasm	2	498
+C	DISEASES2025:Corneal neovascularization	312	498
+C	DISEASES2025:Corneal ulcer	194	498
+C	DISEASES2025:Deep corneal vascularisation	3	498
+C	DISEASES2025:Deep keratitis	14	498
+C	DISEASES2025:Exposure keratitis	27	498
+C	DISEASES2025:Filamentary keratitis	29	498
+C	DISEASES2025:Gonococcal keratitis	2	498
+C	DISEASES2025:Herpes simplex virus keratitis	27	498
+C	DISEASES2025:Idiopathic corneal edema	3	498
+C	DISEASES2025:Interstitial keratitis	29	498
+C	DISEASES2025:Keratitis	812	498
+C	DISEASES2025:Marginal corneal ulcer	10	498
+C	DISEASES2025:Megalocornea	112	498
+C	DISEASES2025:Mycotic corneal ulcer	1	498
+C	DISEASES2025:Perforated corneal ulcer	11	498
+C	DISEASES2025:Photokeratitis	36	498
+C	DISEASES2025:Recurrent corneal erosion	90	498
+C	DISEASES2025:Ring corneal ulcer	1	498
+C	DISEASES2025:Ring dermoid of cornea	23	498
+C	DISEASES2025:Sclerosing keratitis	9	498
+C	DISEASES2025:Secondary corneal edema	13	498
+C	DISEASES2025:Subcorneal pustular dermatosis	54	498
+C	DISEASES2025:Superficial keratitis	16	498
+C	DisGeNET:Abnormal Corneal Endothelium Morphology	1	498
+C	DisGeNET:Abnormality Of Corneal Stroma	1	498
+C	DisGeNET:Acanthamoeba Keratitis	13	498
+C	DisGeNET:Adenoviral Keratitis	2	498
+C	DisGeNET:Amyloid Of Cornea	4	498
+C	DisGeNET:Autosomal Dominant Keratitis	1	498
+C	DisGeNET:Bacterial Keratitis	17	498
+C	DisGeNET:Brittle Cornea Syndrome 2	2	498
+C	DisGeNET:Clouding Of Corneal Stroma	8	498
+C	DisGeNET:Congenital Corneal Opacity	1	498
+C	DisGeNET:Congenital Malformation Of Cornea Nos	1	498
+C	DisGeNET:Cornea Verticillata	1	498
+C	DisGeNET:Corneal Allograft Rejection	20	498
+C	DisGeNET:Corneal Defect	1	498
+C	DisGeNET:Corneal Degeneration	3	498
+C	DisGeNET:Corneal Deposit	3	498
+C	DisGeNET:Corneal Endotheliitis	1	498
+C	DisGeNET:Corneal Epithelial Loss	1	498
+C	DisGeNET:Corneal Erosion	33	498
+C	DisGeNET:Corneal Fibrosis	17	498
+C	DisGeNET:Corneal Graft Rejection	5	498
+C	DisGeNET:Corneal Guttata	6	498
+C	DisGeNET:Corneal Hypoesthesia	1	498
+C	DisGeNET:Corneal Infection	20	498
+C	DisGeNET:Corneal Melt	4	498
+C	DisGeNET:Corneal Neovascularization	104	498
+C	DisGeNET:Corneal Pannus	64	498
+C	DisGeNET:Corneal Thinning	6	498
+C	DisGeNET:Corneal Ulcer	32	498
+C	DisGeNET:Dermoids Of Cornea	1	498
+C	DisGeNET:Fine Corneal Edema	1	498
+C	DisGeNET:Fungal Keratitis	21	498
+C	DisGeNET:Herpetiform Corneal Ulceration	1	498
+C	DisGeNET:Irido-Corneal Dysgenesis	22	498
+C	DisGeNET:Keratitis	152	498
+C	DisGeNET:Keratitis Caused By Infection	6	498
+C	DisGeNET:Keratitis Fugax Hereditaria	1	498
+C	DisGeNET:Keratitis, Hereditary	2	498
+C	DisGeNET:Keratitis, Herpetic	23	498
+C	DisGeNET:Keratitis-Ichthyosis-Deafness Syndrome	5	498
+C	DisGeNET:Macrophthalmia, Colobomatous, With Microcornea	1	498
+C	DisGeNET:Microcornea	128	498
+C	DisGeNET:Neoplasm Of Cornea	1	498
+C	DisGeNET:Neurotrophic Keratitis	7	498
+C	DisGeNET:Other Congenital Corneal Malformations	1	498
+C	DisGeNET:Peripheral Ulcerative Keratitis	1	498
+C	DisGeNET:Pseudophakic Corneal Edema	10	498
+C	DisGeNET:Pterygium Of Conjunctiva And Cornea	154	498
+C	DisGeNET:Punctate Epithelial Keratitis	3	498
+C	DisGeNET:Punctate Keratitis	3	498
+C	DisGeNET:Recurrent Erosion Of Cornea	15	498
+C	DisGeNET:Regular Astigmatism - Corneal	32	498
+C	DisGeNET:Retrocorneal Fibrous Membrane	2	498
+C	DisGeNET:Ring Dermoid Of Cornea	2	498
+C	DisGeNET:Sterile Keratitis	1	498
+C	DisGeNET:Stromal Keratitis	12	498
+C	DisGeNET:Subcorneal Pustular Dermatosis	2	498
+C	DisGeNET:Viral Keratitis	4	498
+C	DisGeNET:Xerotic Keratitis	1	498
+C	HPO:abnormal migration of corneal endothelium	1	498
+C	HPO:abnormality of corneal endothelium	3	498
+C	HPO:abnormality of corneal epithelium	59	498
+C	HPO:abnormality of corneal size	117	498
+C	HPO:abnormality of corneal stroma	138	498
+C	HPO:abnormality of corneal thickness	88	498
+C	HPO:abnormality of the cornea	410	498
+C	HPO:abnormality of the curvature of the cornea	88	498
+C	HPO:central opacification of the cornea	4	498
+C	HPO:corneal arcus	6	498
+C	HPO:corneal crystals	1	498
+C	HPO:corneal degeneration	1	498
+C	HPO:corneal erosion	35	498
+C	HPO:corneal guttata	2	498
+C	HPO:corneal neovascularization	1	498
+C	HPO:corneal opacity	174	498
+C	HPO:corneal perforation	3	498
+C	HPO:corneal scarring	6	498
+C	HPO:corneal stromal edema	1	498
+C	HPO:corneal ulceration	2	498
+C	HPO:decreased corneal reflex	1	498
+C	HPO:decreased corneal thickness	86	498
+C	HPO:flat cornea	12	498
+C	HPO:generalized opacification of the cornea	1	498
+C	HPO:herpetiform corneal ulceration	1	498
+C	HPO:increased corneal curvature	15	498
+C	HPO:increased corneal thickness	2	498
+C	HPO:megalocornea	23	498
+C	HPO:microcornea	97	498
+C	HPO:opacification of the corneal epithelium	1	498
+C	HPO:opacification of the corneal stroma	137	498
+C	HPO:peripheral opacification of the cornea	7	498
+C	HPO:punctate opacification of the cornea	4	498
+C	HPO:recurrent corneal erosions	12	498
+C	HPO:reduced number of corneal endothelial cells	1	498

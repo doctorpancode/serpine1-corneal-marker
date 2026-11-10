@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived release."
+title: "SERPINE1 as a transcriptomic marker of corneal inflammatory activity: analysis code"
+abstract: >-
+  Analysis code and result tables for a study that separates marker-grade from network-grade
+  evidence in corneal inflammation, using eight public transcriptome cohorts and virtual
+  knockout on a mouse alkali-burn single-cell co-expression network.
+authors:
+  - family-names: "Pan"
+    given-names: "Zhongcen"
+    affiliation: "Department of Ophthalmology"
+    orcid: ""
+version: "1.0.0"
+date-released: "2026-11-11"
+license: MIT
+repository-code: "https://github.com/doctorpancode/virtual-gene-knockout-corneal-serpine1"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.PENDING"
+    description: "Archived release (Zenodo DOI assigned at publication)"
+keywords:
+  - corneal neovascularization
+  - infectious keratitis
+  - SERPINE1
+  - virtual knockout
+  - scTenifoldKnk
+  - co-expression network
+  - biomarker

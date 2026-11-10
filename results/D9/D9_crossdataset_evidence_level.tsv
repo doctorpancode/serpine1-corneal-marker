@@ -1,0 +1,5 @@
+dataset	species	assay	condition	evidence_level	role_in_study	supports_epithelial_program
+GSE275678	Mouse	scRNA-seq	Alkali burn vs uninjured	measured_in_project	虚拟敲除主数据集	yes (Krt12/Aqp5/Gsta4/Upk3bl perturbed)
+GSE294213	Human	scRNA-seq	Suture-induced CNV vs normal	measured_in_project	跨物种验证	yes (Capg/Gja1/Prdx2 down, P4hb/S100a13/Serpine1 up)
+GSE326016	Human	scRNA-seq / snRNA-seq	Diabetic limbal landscape	literature_only	角膜缘上皮身份的外部对照	context only
+GSE319836	Human	snRNA-seq	Human ocular surface bipotent basal cells	literature_only	基底细胞命运的外部对照	context only

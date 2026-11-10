@@ -1,0 +1,4 @@
+figures_out/
+__pycache__/
+*.pyc
+rev12_stats.json

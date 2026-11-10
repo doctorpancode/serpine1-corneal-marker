@@ -1,0 +1,10 @@
+test	value	ci_lo	ci_hi
+wilcoxon_greater	0.675503407458696		
+wilcoxon_two_sided	0.64979102353557		
+permutation_10000	0.412958704129587		
+cliffs_delta	-0.0796425796425797		
+bootstrap_median_diff	0.19791206036308	-0.676977678373021	1.22257139176024
+median_background	1.15019775534361		
+median_core	1.34810981570669		
+n_background	936		
+n_core	11		

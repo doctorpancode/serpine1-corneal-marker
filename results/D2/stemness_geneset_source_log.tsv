@@ -1,0 +1,9 @@
+item	value
+geneset_name	Corneal_Limbal_Stemness_v1
+n_genes	61
+n_categories	7
+n_positive	57
+n_negative	4
+source	文献整理(LSC marker: TP63/KRT15/ABCG2/COL17A1/ITGA6) + MSigDB GOBP_STEM_CELL_POPULATION_MAINTENANCE / DESCARTES_FETAL_EYE_CORNEAL_EPITHELIUM 交叉核对
+collection_date	2026-11-09
+usage	GSVA ssGSEA 评分；负向标记在 ssGSEA 中按同一方向参与（ssGSEA 不做符号翻转），故评分解释为'上皮干细胞程序总体活性'

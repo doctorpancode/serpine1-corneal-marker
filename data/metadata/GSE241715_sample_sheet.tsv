@@ -1,0 +1,22 @@
+sample	dataset	species	tissue	platform	group	binary_lesion	library_raw_sum	detected_genes_cpm_gt1	median_log2cpm	paired	followup
+Control_S1	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Control	0	1128126.3	12330	3.883	no	none
+Control_S2	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Control	0	1209583.5	10429	3.583	no	none
+Control_S3	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Control	0	1200078.8	11869	3.759	no	none
+Control_S4	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Control	0	1117574.1	12108	3.851	no	none
+Control_S5	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Control	0	1155099.5	12228	3.887	no	none
+Control_S6	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Control	0	1170890.7	11916	3.744	no	none
+Control_S7	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Control	0	1175589.8	12009	3.78	no	none
+Keratoconus_S1	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Keratoconus	1	1131804.0	12018	3.761	no	none
+Keratoconus_S2	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Keratoconus	1	1126960.1	12408	3.844	no	none
+Keratoconus_S3	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Keratoconus	1	1117505.1	12488	3.866	no	none
+Keratoconus_S4	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Keratoconus	1	1108595.7	12353	3.831	no	none
+Viral_S1	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Viral	1	1059439.4	12726	4.085	no	none
+Viral_S2	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Viral	1	1072301.4	12756	4.113	no	none
+Viral_S3	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Viral	1	1141196.9	11660	3.656	no	none
+Viral_S4	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Viral	1	1046049.6	13287	4.13	no	none
+Viral_S5	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Viral	1	1141893.6	10889	3.636	no	none
+Bacterial_fungal_S1	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Bacterial_fungal	1	1293969.1	10868	3.417	no	none
+Bacterial_fungal_S2	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Bacterial_fungal	1	1115830.8	8276	3.735	no	none
+Bacterial_fungal_S3	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Bacterial_fungal	1	1234559.9	11352	3.623	no	none
+Bacterial_fungal_S4	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Bacterial_fungal	1	1232897.8	12500	3.77	no	none
+Bacterial_fungal_S5	GSE241715	Homo sapiens	cornea	RNA-seq (submitter processed matrix, SYMBOL level)	Bacterial_fungal	1	1150022.0	12526	3.935	no	none

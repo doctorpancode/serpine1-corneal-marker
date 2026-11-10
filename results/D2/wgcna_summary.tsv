@@ -1,0 +1,8 @@
+item	value
+n_samples	21
+n_genes_pool	1413
+soft_power	10
+n_modules	6
+modules_sig_StemnessScore	4
+modules_sig_Lesion	5
+pass_criterion	>=1 module with |r|>0.4 & p<0.05 for both StemnessScore and Lesion

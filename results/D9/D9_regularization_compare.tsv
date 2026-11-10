@@ -1,0 +1,4 @@
+metric	rho	p
+rho_outdegree_vs_mean_raw	0.916880733553888	0
+rho_outdegree_vs_mean_rowL1norm	0.466288186909574	2.7222375956576e-52
+rho_outdegree_vs_cos_to_TMSB4X	0.194539390401411	2.24939662710809e-09

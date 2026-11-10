@@ -1,0 +1,7 @@
+module	moduleSize	r_StemnessScore	p_StemnessScore	r_Lesion_binary	p_Lesion_binary
+MEblue	195	-0.5292	0.01364	0.5449	0.01064
+MEgreen	486	-0.4449	0.04327	0.7884	2.184e-05
+MEred	127	0.4547	0.03835	-0.8507	1.028e-06
+MEyellow	65	-0.2057	0.3711	-0.607	0.003523
+MEbrown	98	0.3981	0.07389	-0.5637	0.00779
+MEturquoise	442	0.8838	1.092e-07	-0.2275	0.3213
