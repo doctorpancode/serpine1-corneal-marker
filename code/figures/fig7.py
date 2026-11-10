@@ -43,7 +43,7 @@ ax.set_ylabel("上皮程序平均 |Δ|")
 ax.set_ylim(2e-4, 1.6)
 ax.annotate("", xy=(2, 0.30), xytext=(0, 0.30),
             arrowprops=dict(arrowstyle="<->", lw=0.6, color="#8A97A4"))
-ax.text(1.0, 0.36, "480×", ha="center", fontsize=6.2, color="#333333")
+ax.text(1.0, 0.36, "462×", ha="center", fontsize=6.2, color="#333333")
 ax.set_title("核效应的量级差", pad=5)
 S.ygrid(ax); S.clean(ax); S.panel(ax, "b", x=-0.30, y=1.02)
 
