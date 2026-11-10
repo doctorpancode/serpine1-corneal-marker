@@ -1,0 +1,53 @@
+{
+  "title": "serpine1-corneal-marker: reproducible code and result tables for a marker-versus-network-node dissection of corneal inflammation",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Pan, Zhongcen"
+    }
+  ],
+  "keywords": [
+    "corneal neovascularization",
+    "infectious keratitis",
+    "SERPINE1",
+    "PAI-1",
+    "virtual knockout",
+    "scTenifoldKnk",
+    "co-expression network",
+    "biomarker",
+    "transcriptomics",
+    "single-cell RNA-seq"
+  ],
+  "description": "<p>Analysis code and result tables for a study that separates marker-grade from network-grade evidence in corneal inflammation.</p><p>Eight public transcriptome cohorts (GSE275678, GSE294213, GSE241715, GSE58291, GSE204791, GSE89537, GSE326016, GSE319836) are used to ask two questions separately: (1) does a gene track disease activity across independent cohorts and platforms; (2) does removing it from a co-expression network move an epithelial differentiation programme. SERPINE1 replicates a monotonic gradient in two independent human cohorts (1.65 to 8.90 across four lesion grades; log2 fold change +3.06 for bacterial versus control, external AUC 0.988) but its epithelial nuclear effect is 5.9e-4, one 462nd of TMSB4X, and its residual rank after out-degree detrending is 750 of 947. TMSB4X tops the network ranking (residual 0.246) yet carries no discriminative power in the external cohort (AUC 0.488). The conclusion is that a virtual knockout ranks network position, not marker value.</p><p>The bundle contains the day 1-9 analysis scripts (R and Python), the manuscript figure scripts, 124 result tables with a number-to-file manifest, the sample sheets, and four intermediate matrices too large for the GitHub repository (54, 18, 10 and 2.7 MB). Raw GEO matrices are not redistributed; accessions and file layout are documented in docs/ANALYSIS_ORDER.md.</p><p>Known limits, stated in the paper and reproduced here: no resampling distribution over network reconstructions and no degree-preserving permutation null were run; combination knockouts are additive by construction; and the discovery cohort separates perfectly for 9 of 10 core genes, so those AUCs are upper bounds.</p>",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/doctorpancode/serpine1-corneal-marker",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "GSE275678",
+      "relation": "references",
+      "scheme": "gse"
+    },
+    {
+      "identifier": "GSE241715",
+      "relation": "references",
+      "scheme": "gse"
+    },
+    {
+      "identifier": "GSE58291",
+      "relation": "references",
+      "scheme": "gse"
+    },
+    {
+      "identifier": "GSE294213",
+      "relation": "references",
+      "scheme": "gse"
+    }
+  ]
+}
