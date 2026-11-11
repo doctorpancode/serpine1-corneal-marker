@@ -368,7 +368,7 @@ para("除特别说明外，全部分析在 R 4.4.2 下完成，使用 scTenifold
      "PNG 与 PDF 双格式导出。")
 para("本研究未涉及人体或动物实验，所有数据均来自公开数据库，无需伦理审批。全部数据来自 GEO（GSE275678、"
      "GSE294213、GSE241715、GSE58291、GSE204791、GSE89537、GSE326016、GSE319836），按各系列公开的下载途径获取。"
-     "代码与结果表已整理为可独立运行的分析包（125 张结果表、106 个脚本、247 个文件），提交至 GitHub 仓库 "
+     "代码与结果表已整理为可独立运行的分析包（129 张结果表、108 个脚本、253 个文件），提交至 GitHub 仓库 "
      "github.com/doctorpancode/serpine1-corneal-marker，并在 Zenodo 归档取得 DOI：概念 DOI "
      "10.5281/zenodo.24117449（各版版本 DOI 随归档递增，最新版本记录在包的 CITATION.cff 中）；Gitee 镜像 "
      "gitee.com/doctorpancode/virtual-gene-knockout（分支 master）保留每日分析目录与绘图脚本。本文报告的"
